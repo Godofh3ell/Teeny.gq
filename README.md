@@ -1,5 +1,5 @@
 # Teeny.gq-bot
-Make short link by using [GPlink](https://teeny.gq/) API key
+Make short link by using [Teeny.gq](https://teeny.gq/) API key
 ### Installation
 
 #### The Easy Way
