@@ -4,7 +4,7 @@ Make short link by using [Teeny.gq](https://teeny.gq/) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godofh3ell/teeny.gq)
 
 ##### Required Variables
 
