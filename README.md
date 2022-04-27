@@ -12,4 +12,4 @@ Make short link by using [Teeny.gq](https://teeny.gq/) API key
 
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_KEY`: Create [GPlink](https://teeny.gq/) account then get this value from [GPlink API](https://gplinks.in/member/tools/api)
+* `API_KEY`: Create [Teeny.gq](https://teeny.gq/) account then get this value from [Teeny.gq API](https://gplinks.in/member/tools/api)
